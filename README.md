@@ -46,7 +46,3 @@ This website is built to:
 * Showcase my artwork
 * Practice front-end development
 * Experiment with animations and UI design
-
-## 📸 Preview
-
-[▶️ Watch Demo Video](assets/videos/demo.mp4)
